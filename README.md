@@ -1,6 +1,8 @@
 # K-Means-Algorithm-from-Scratch
 
-This repo contains my code to run K-Means clustering algorithm from scratch. The algorithm takes in image data as input and tries to cluster the color assingment using K = 2, 5, 10, 20, and 30. The euclidean distance equation (l-2 norm) objective function isbeing used to calculate clusters and find optimal centroids. The results including the number of itterations and elapsed time for various images of different colors and sizes are shown below.
+This repository contains my implementation of the K-Means clustering algorithm from scratch. The algorithm takes image data as input and attempts to cluster the color assignments using a varying number of clusters (K = 2, 5, 10, 20, and 30). The Euclidean distance equation (L2 norm) is used as the objective function to calculate the clusters and find the optimal centroids.
+
+The results, including the number of iterations and elapsed time, are shown for various images of different colors and sizes. These images are displayed in the table below:
 
 <div align="center"> 
   <table> 
